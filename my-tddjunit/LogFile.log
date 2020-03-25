@@ -1,0 +1,8 @@
+15 [main] DEBUG com.epam.task8.App  - Debugging Started
+47 [main] INFO com.epam.task8.App  - ----Enter String------
+4264 [main] INFO com.epam.task8.App  - -----Resultant String-----
+4269 [main] INFO com.epam.task8.App  - Debugging ended
+0 [main] DEBUG com.epam.task8.App  - Debugging Started
+126 [main] INFO com.epam.task8.App  - ----Enter String------
+2875 [main] INFO com.epam.task8.App  - -----Resultant String-----
+2876 [main] INFO com.epam.task8.App  - Debugging ended
