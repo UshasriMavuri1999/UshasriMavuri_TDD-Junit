@@ -25,12 +25,12 @@ public class App
     	BasicConfigurator.configure();
     	logger.debug("Debugging Started");
         Scanner scan = new Scanner(System.in);
-        ResultString r = new ResultString();
+        ResultString res = new ResultString();
         logger.info("----Enter String------");
         myout.println("Enter String : ");
         String string = scan.next();
         logger.info("-----Resultant String-----");
-        myout.println("Result String : " + r.removeA(string));
+        myout.println("Result String : " + res.removeA(string));
         logger.info("Debugging ended");
     }
 }
